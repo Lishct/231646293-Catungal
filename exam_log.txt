@@ -1,0 +1,7 @@
+    1  cd 231646293-Catungal
+    2  cd linux_practice
+    3  cd practice_subdir
+    4  gh repo clone https://github.com/Lishct/231646293-Catungal
+    5  cd 231646293-Catungal
+    6  git checkout -b finalexam
+    7  history > exam_log.txt
